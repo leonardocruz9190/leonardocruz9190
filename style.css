@@ -1,0 +1,25 @@
+#cabecalho{
+    background-color: green;
+}
+
+#conteudo{
+    
+    background-color: rgb(102, 122, 180);
+}
+
+#menu{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: red;
+}
+table{
+    background-color: 
+}
+body{
+    background-color:rgba(8, 85, 53, 0.541);
+    border-radius: 2em;
+}
+#imagen img{
+align-content: center;
+width: 20em;
+    
+}
